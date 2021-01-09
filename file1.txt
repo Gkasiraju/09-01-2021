@@ -1,2 +1,2 @@
 this is file1 and some changes done by future_branch1
- 
+ and some changes are done by hotfix_branch 
